@@ -1,4 +1,5 @@
 # Crimes
+![Crime](https://github.com/Grom-P/Crime-et-delinquances-PowerBI/assets/117200565/b6d7850d-0eb6-47dd-8722-7c1a2b6e6e71)
 
 1. Synthétiser des résultats à destination d'un client
 Commentaires : Résultats synthétisés et très agréables à suivre, visuel soigné
