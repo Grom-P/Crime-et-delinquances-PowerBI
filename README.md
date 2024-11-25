@@ -1,13 +1,23 @@
 # Crimes
 ![Crime](https://github.com/Grom-P/Crime-et-delinquances-PowerBI/assets/117200565/b6d7850d-0eb6-47dd-8722-7c1a2b6e6e71)
 
-1. Synthétiser des résultats à destination d'un client
-Commentaires : Résultats synthétisés et très agréables à suivre, visuel soigné
+## Tâches et réalisations
 
-2. Créer un tableau de bord répondant à des questions analytiques
-Commentaires : Le dashboard est parfaitement structuré, et il répond aux questions soulevées par le sujet
+1. **Synthétiser des résultats à destination d'un client**  
+   **Commentaires** :  
+   - Résultats synthétisés de manière claire et agréable à suivre.  
+   - Le visuel est soigné.
 
-3. Analyser un besoin client pour formuler des questions analytiques
+2. **Créer un tableau de bord répondant à des questions analytiques**  
+   **Commentaires** :  
+   - Le tableau de bord est parfaitement structuré.  
+   - Il répond efficacement aux questions soulevées par le sujet.
 
-4. Générer des graphiques adaptés aux types de données
-Commentaires : Les graphiques sont variés, annotés et expliqués
+3. **Analyser un besoin client pour formuler des questions analytiques**  
+   - Comprendre les attentes du client.  
+   - Identifier et formaliser les questions analytiques pertinentes.
+
+4. **Générer des graphiques adaptés aux types de données**  
+   **Commentaires** :  
+   - Les graphiques sont variés, clairs et adaptés aux données.  
+   - Chaque graphique est correctement annoté et expliqué.
